@@ -66,6 +66,13 @@ label {
     margin-bottom: 1em;
 }
 
+.pure-form textarea {
+    border: 2px solid #ddd;
+    box-shadow: none;
+    font-size: 100%;
+    width: 100%;
+    margin-bottom: 1em;
+}
 /*
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
